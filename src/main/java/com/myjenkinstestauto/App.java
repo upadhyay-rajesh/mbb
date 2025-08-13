@@ -1,7 +1,7 @@
 package com.myjenkinstestauto;
 
 /**
- * Hello world!
+ * Hello csdfds!
  *
  */
 public class App 
